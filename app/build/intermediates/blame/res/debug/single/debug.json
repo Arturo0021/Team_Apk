@@ -1,0 +1,846 @@
+[
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_brand.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\brand.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_control.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\control.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_cell_bg.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\table_cell_bg.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_sondeo.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_sondeo.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_settings.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_exhibicion_adicional.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_exhibicion_adicional.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_asistencia3.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\asistencia3.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_inflater_webview.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\inflater_webview.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_save_black.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\save_black.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sos.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_sos.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_item.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\group_item.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemlisticon.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\itemlisticon.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_barcode.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_barcode.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_comment_check.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\comment_check.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_head_border.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\row_head_border.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_generico.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\menu_generico.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_frentes_anaquel.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_frentes_anaquel.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_asistencia.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\asistencia.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_clasificacion.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\clasificacion.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_control_foto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\control_foto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_download.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\download.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_clasificacion_producto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_clasificacion_producto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_captura_foto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_captura_foto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancel_black.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\cancel_black.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_insumos_answ_activity.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\insumos_answ_activity.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_producto_2.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\producto_2.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_sincronizar.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\sincronizar.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_foto_asistencia.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_foto_asistencia.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_graymark.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\graymark.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sucursal.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_sucursal.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_foto_adicional.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\foto_adicional.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_existencia_bodega.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_existencia_bodega.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_foto_anaquel.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\foto_anaquel.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_anaquel2.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\anaquel2.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_download_white.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\download_white.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_row_bg.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\table_row_bg.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_sucursal.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\sucursal.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_exadicional.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\adapter_exadicional.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xinfo.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\xinfo.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sondeo.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_sondeo.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_password.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_producto_1.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\producto_1.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_submenu_activity.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\submenu_activity.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_general.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\adapter_general.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemlist_1.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\itemlist_1.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_photograp.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\photograp.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iconnew.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\iconnew.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemlist.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\itemlist.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_exchiadic.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_exchiadic.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bodega.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_bodega.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toolbar.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\toolbar.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_checkxml.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\checkxml.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_principal.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\menu_principal.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_save.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\save.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_configuracion.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\configuracion.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_sincronizar.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\menu_sincronizar.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_list_sos.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\adapter_list_sos.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_white.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\back_white.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_table_row_last_bg.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\table_row_last_bg.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_todo2.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\todo2.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_material_promocional.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_material_promocional.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_foto_1.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\foto_1.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_ruta.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\ruta.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_foto_producto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_foto_producto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_th2.jpg.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\th2.jpg"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bymarca.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_bymarca.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_clock.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\clock.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_sin_visitar.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_sin_visitar.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_customprogressbar.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\customprogressbar.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_done.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ic_done.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_barcode.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\barcode.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_classification.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\classification.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_following.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\following.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_conjuntos.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\conjuntos.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_existencia_anaquel.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_existencia_anaquel.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_foto_anaquel.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\foto_anaquel.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_prueba.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\prueba.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_vista.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\vista.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exadic2.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\exadic2.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_scoredcard.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\menu_scoredcard.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_exh_adicional.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_exh_adicional.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_generico2.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\menu_generico2.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_house.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\house.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_th1.jpg.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\th1.jpg"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_anquel_sondeo.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\anquel_sondeo.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_opciones_foto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_opciones_foto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_textfield_default_holo_light.9.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\textfield_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_actionfoto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\menu_actionfoto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_material_promocional.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\material_promocional.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_mat_promocional.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_mat_promocional.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_upload_white.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\upload_white.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_captura_foto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\captura_foto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sondeo2.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_sondeo2.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_table_row.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\table_row.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_foto_producto.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\foto_producto.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_data_white.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\data_white.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_product.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\product.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_foto.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_foto.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_email.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\email.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sync.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\row_sync.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_principal.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_menu_principal.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_adaptador_area_insumos.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\adaptador_area_insumos.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_clasificacion_producto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\activity_clasificacion_producto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_anquel_sondeo_1.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\anquel_sondeo_1.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_anaquel_frente.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_anaquel_frente.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_captura.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\captura.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_comentario.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\comentario.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_white.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\search_white.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_border_ui.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\border_ui.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_price.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\price.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_asistencia.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_asistencia.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_captura.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\activity_captura.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_producto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_producto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemmenu.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\itemmenu.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_th.jpg.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\th.jpg"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_child_item.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\child_item.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_action_settings.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\action_settings.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_foto_2.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\foto_2.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_white.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\camera_white.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sincronizar.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_sincronizar.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flagnosync.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\flagnosync.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logoteam.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\logoteam.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancel.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_barcode_1.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\barcode_1.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cerrar_dia.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\cerrar_dia.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_frentes_anaquel.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\adapter_frentes_anaquel.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_warningmsg.jpg.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\warningmsg.jpg"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_emails_white.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\emails_white.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_singleselect.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\item_singleselect.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icoteam.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\icoteam.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_tienda_visitada.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_tienda_visitada.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_team.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\team.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_asistencia.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\adapter_asistencia.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_desactivada_visitar.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_desactivada_visitar.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_multipleselect.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\item_multipleselect.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_adaptador_insumos_answ.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\adaptador_insumos_answ.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_sod.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\sod.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_anaquel.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_anaquel.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_nosync.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\row_nosync.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fondo_ficha.jpg.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\fondo_ficha.jpg"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scoredcard.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_scoredcard.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_bodega.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\bodega.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_menu.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_white3.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\search_white3.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camara.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\camara.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logoteam_new.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\logoteam_new.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_following_white.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\following_white.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_1.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_1.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_th3.jpg.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\th3.jpg"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_enviar_white.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_enviar_white.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sos2.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\sos2.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_title.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\background_title.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_white2.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\search_white2.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_en_visita.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_en_visita.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_calendar.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\calendar.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_foto_asistencia.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\foto_asistencia.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_clasificacion_foto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\clasificacion_foto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_asistencia.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_asistencia.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_upload.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\upload.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_anaquel_precio.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_anaquel_precio.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_prueba.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_prueba.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scoredcard.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\scoredcard.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_save_white.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\save_white.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_insumos_activity.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\insumos_activity.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_exhibicion_adicional.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\exhibicion_adicional.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_foto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_foto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_teamnew.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\logo_teamnew.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_emails.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\emails.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flagsync.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\flagsync.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_enviar.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_enviar.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_producto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\producto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_sondeo.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\sondeo.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_title_black.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\background_title_black.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_conjuntogrupo.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\conjuntogrupo.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_searchdoc.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\searchdoc.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_inflater_alert_phone.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\inflater_alert_phone.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_frentes.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_frentes.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast_layout.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\toast_layout.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch_tienda.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\ch_tienda.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_data.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\data.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_opciones_foto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\opciones_foto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_foto_adicional.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\activity_foto_adicional.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_negro.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\negro.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancel_white.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\cancel_white.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\menu_foto.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\menu\\foto.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logoteam2.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\logoteam2.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_acercade.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\acercade.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exadic2_1.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\exadic2_1.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\layout_fichatecnica.xml.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\layout\\fichatecnica.xml"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camara_black.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\camara_black.png"
+    },
+    {
+        "merged": "D:\\Team_Apk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_team_logo.png.flat",
+        "source": "D:\\Team_Apk\\app\\src\\main\\res\\drawable-hdpi\\team_logo.png"
+    }
+]

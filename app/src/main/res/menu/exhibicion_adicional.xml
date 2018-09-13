@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+  <item
+        android:id="@+id/action_foto"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/camera_white"
+         android:title="Foto"/>       
+
+    <item
+        android:id="@+id/action_save"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/save_white"
+        android:title="Guardar"/>
+    
+        <item
+        android:id="@+id/action_siguiente"
+        android:orderInCategory="200"
+        android:showAsAction="always"
+        android:icon="@drawable/following_white"
+        />
+    
+    <item
+        android:id="@+id/action_cancelar"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/cancel_white"
+        android:title="Cancelar"/>
+    
+
+    
+</menu>

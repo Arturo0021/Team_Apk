@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item
+		android:id="@+id/action_entrar"
+		android:orderInCategory="100"
+		android:showAsAction="always"
+		android:title="Entrar"/>
+	<item
+		android:id="@+id/action_sincronizar"
+		android:orderInCategory="100"
+		android:showAsAction="never"
+		android:title="Sincronizar"/>
+        
+        <item
+		android:id="@+id/acerca_de"
+		android:orderInCategory="100"
+		android:showAsAction="never"
+		android:title="Acerca de ..."/>
+</menu>

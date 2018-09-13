@@ -1,0 +1,30 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal" 
+    android:background="#fff"
+>
+<TableRow            
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dip"
+    android:background="@layout/row_head_border">
+ 
+    <TextView
+        android:id="@+id/rowusuario"
+        android:text="Usuario"
+        android:layout_width="fill_parent"/>
+ 
+    <TextView
+        android:id="@+id/rowtienda"
+        android:text="Tienda"
+        android:layout_width="fill_parent"/>
+            
+    <TextView
+        android:id="@+id/rowstatus"
+        android:text="Status"
+        android:layout_width="fill_parent"/>
+            
+</TableRow>
+</LinearLayout>

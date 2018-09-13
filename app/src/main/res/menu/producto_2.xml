@@ -1,0 +1,65 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!--<item
+        android:id="@+id/by_product"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/product"
+    />-->
+    
+    
+    <!--<group android:checkableBehavior="all">
+        <item 
+            android:id="@+id/item1" 
+            android:titleCondensed="Options" 
+            android:title="Highlight Options" 
+            android:icon="@android:drawable/ic_menu_preferences"            
+            android:showAsAction="ifRoom|withText">
+           
+        </item>
+        <item 
+            android:id="@+id/item2" 
+            android:titleCondensed="Persist" 
+            android:title="Persist" 
+            android:icon="@android:drawable/ic_menu_preferences" 
+            android:checkable="true">
+        </item>
+    </group>-->
+    
+    <item
+        android:id="@+id/checkbox"
+        android:title="Capturar por marca"
+        android:orderInCategory="10"
+        android:showAsAction="never"
+        android:visible="false"
+        android:checkable="true"
+        android:checked="false"/>
+    <!--<item
+        android:id="@+id/by_marca"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:checkable="true" 
+        android:icon="@drawable/brand"
+    />-->
+
+    <item
+        android:id="@+id/action_cancelar"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/back_white"
+    />
+    <item
+        android:id="@+id/action_continuar"
+        android:orderInCategory="100"
+        android:icon="@drawable/following_white"
+        android:showAsAction="always"
+        
+    />
+ <!--   <item
+        android:id="@+id/action_config"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/action_settings"
+    />-->
+
+
+</menu>

@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/enviar_email"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/emails_white"
+    />
+    <item
+        android:id="@+id/action_data"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/data_white"
+        
+        />
+    <item
+        android:id="@+id/action_download"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/download_white"
+        />
+    
+    <item
+        android:id="@+id/action_upload"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/upload_white"
+        />
+    
+</menu>

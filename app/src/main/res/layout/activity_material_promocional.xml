@@ -1,0 +1,324 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+              android:background="#fff"
+>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/LayoutCenafas"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantos cenafas existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditCenafas"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="4" 
+                android:textColor="#000000" 
+                android:textCursorDrawable="@null"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutDangles"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantos dangles existen?" 
+                android:textColor="#000000"/>
+
+            <EditText
+                android:id="@+id/EditDangles"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="4"                
+                android:inputType="number"
+                android:textColor="#000000" 
+                android:textCursorDrawable="@null"            />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutStoppers"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantos stoppers existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditStoppers"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="4"
+                android:textColor="#000000"
+                android:inputType="number" 
+                android:textCursorDrawable="@null" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutColgantes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantos colgantes existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditColgantes"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="4"                
+                android:inputType="number" 
+                android:textColor="#000000" 
+                android:textCursorDrawable="@null"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutCartulinas"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantas cartulinas existen?" 
+                android:textColor="#000000"/>
+
+            <EditText
+                android:id="@+id/EditCartulinas"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="4"                
+                android:inputType="number"
+                android:textColor="#000000"  
+                android:textCursorDrawable="@null"          />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutCorbatas"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantas corbatas existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditCorbatas"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="4"
+                android:inputType="number" 
+                android:textColor="#000000" 
+                android:textCursorDrawable="@null"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutFlash"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantos flash existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditFlash"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="4"                
+                android:inputType="number"
+                android:textColor="#000000" 
+                android:textCursorDrawable="@null"           />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutTiras"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantas tiras de impulso existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditTiras"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="4"
+                android:inputType="number" 
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutPreciadores"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantos preciadores existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditPreciadores"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="4"
+                android:inputType="number" 
+                android:textColor="#000000" 
+                android:textCursorDrawable="@null"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutFolletos"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantos folletos existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditFolletos"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="4"
+                android:inputType="number"
+                android:textColor="#000000"    
+                android:textCursorDrawable="@null"        />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutTapetes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantos tapetes existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditTapetes"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="4"
+                android:inputType="number" 
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutFaldones"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantos faldones existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditFaldones"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="4"
+                android:inputType="number"
+                android:textColor="#000000"   
+                android:textCursorDrawable="@null"         />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutOtros"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Cuantos otros materiales promocionales existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditOtros"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="4"
+                android:inputType="number"
+                android:textColor="#000000"  
+                android:textCursorDrawable="@null"         />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/LayoutComentarios"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Comentarios:" 
+                android:textColor="#000000"/>
+
+            <EditText
+                android:id="@+id/EditComentarios"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLength="100"
+                android:inputType="text"
+                android:textColor="#000000" 
+                android:textCursorDrawable="@null"           />
+        </LinearLayout>
+        
+    </LinearLayout>
+
+</ScrollView>

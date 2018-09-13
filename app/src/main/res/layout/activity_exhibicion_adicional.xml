@@ -1,0 +1,508 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+              android:background="#fff"
+>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/LayoutCabecera"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="1.0.- ¿Cuantas cabeceras hay?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditCabecera"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"                
+                android:maxLength="4"
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"
+/>
+
+            <LinearLayout
+                android:id="@+id/LayoutCabeceraFrente"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone"
+                
+                 >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="1.1.- ¿Cuantos frentes tiene?" 
+                    android:textColor="#000000"/>
+
+                <EditText
+                    android:id="@+id/EditCabeceraFrentes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:focusable="true"
+                    android:maxLength="4"
+                    android:textColor="#000000"    
+                    android:textCursorDrawable="@null"
+                     />
+                  
+                  
+                
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutIsla"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="2.0.- ¿Cuantas islas existen?" 
+                android:textColor="#000000"/>
+
+            <EditText
+                android:id="@+id/EditIsla"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="4" 
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"
+/>
+
+
+            <LinearLayout
+                android:id="@+id/LayoutIslaFrente"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="2.1.- ¿Cuantos frentes tiene?" 
+                    android:textColor="#000000"/>
+
+                <EditText
+                    android:id="@+id/EditIslaFrentes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="4" 
+                    android:textColor="#000000"
+                    android:textCursorDrawable="@null"
+/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutExhibidores"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="3.0.- ¿Cuantos exhibidores existen?" 
+                android:textColor="#000000"/>
+
+            <EditText
+                android:id="@+id/EditExhibidor"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="4"
+                android:textColor="#000000"   
+                android:textCursorDrawable="@null"
+            />
+
+            <LinearLayout
+                android:id="@+id/LayoutExhibidoresFrente"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="3.1.- ¿Cuantos frentes tiene?" 
+                    android:textColor="#000000"/>
+
+                <EditText
+                    android:id="@+id/EditExhibidorFrentes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="4" 
+                    android:textColor="#000000"
+                    android:textCursorDrawable="@null"
+/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutBunkers"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="4.0.- ¿Cuantos bunkers existen?" 
+                android:textColor="#000000"/>
+
+            <EditText
+                android:id="@+id/EditBunker"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="4"
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"
+/>
+				
+				 <LinearLayout
+                android:id="@+id/LayoutBunkerFrente"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="4.1.- ¿Cuantos frentes tiene?" 
+                    android:textColor="#000000"/>
+
+                <EditText
+                    android:id="@+id/EditBunquerFrentes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="4"
+                    android:textColor="#000000" 
+                    android:textCursorDrawable="@null"
+                />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutAreas"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="5.0.- ¿Cuantas areas existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditArea"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="4" 
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"
+/>
+				<LinearLayout
+                android:id="@+id/LayoutAreaFrente"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="5.1.- ¿Cuantos frentes tiene?" 
+                    android:textColor="#000000"/>
+
+                <EditText
+                    android:id="@+id/EditAreaFrentes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="4" 
+                    android:textColor="#000000"
+                    android:textCursorDrawable="@null"
+/>
+            </LinearLayout>
+				
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutTiras"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="6.0.- ¿Cuantas tiras existen?"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditTira"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="4"
+                android:textColor="#000000"   
+                android:textCursorDrawable="@null"
+            />
+				
+				 <LinearLayout
+                android:id="@+id/LayoutTiraFrente"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="6.1.- ¿Cuantos frentes tiene?" 
+                    android:textColor="#000000"/>
+
+                <EditText
+                    android:id="@+id/EditTiraFrentes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="4" 
+                    android:textColor="#000000"
+                    android:textCursorDrawable="@null"
+/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutCajas"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="7.0.- ¿Cuantas cajas existen?" 
+                android:textColor="#000000"/>
+
+            <EditText
+                android:id="@+id/EditCaja"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="4" 
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"
+    />
+				
+				 <LinearLayout
+                android:id="@+id/LayoutCajaFrente"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="7.1.- ¿Cuantos frentes tiene?" 
+                    android:textColor="#000000"/>
+
+                <EditText
+                    android:id="@+id/EditCajaFrentes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="4"
+                    android:textColor="#000000" 
+                    android:textCursorDrawable="@null"
+/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutAretes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="8.0.- ¿Cuantos aretes existen?" 
+                android:textColor="#000000"/>
+
+            <EditText
+                android:id="@+id/EditArete"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="4"
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"            />
+				
+				 <LinearLayout
+                android:id="@+id/LayoutAreteFrente"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="8.1.- ¿Cuantos frentes tiene?"
+                    android:textColor="#000000" />
+
+                <EditText
+                    android:id="@+id/EditAreteFrentes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="4"
+                    android:textColor="#000000"
+                    android:textCursorDrawable="@null"
+                />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutForway"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="9.0.- ¿Cuantos forway existen?"
+                android:textColor="#000000" />
+
+            <EditText
+                android:id="@+id/EditForway"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="4"
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"            />
+				
+				 <LinearLayout
+                android:id="@+id/LayoutForwayFrente"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="9.1.- ¿Cuantos frentes tiene?"
+                    android:textColor="#000000" />
+
+                <EditText
+                    android:id="@+id/EditForwayFrentes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="4" 
+                    android:textColor="#000000"
+                    android:textCursorDrawable="@null"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutOtros"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="10.0.- ¿Cuantas otras exhibiciones existen?"
+                android:textColor="#000000" />
+
+            <EditText
+                android:id="@+id/EditOtro"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="4" 
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"/>
+				
+				 <LinearLayout
+                android:id="@+id/LayoutOtroFrente"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="10.1.- ¿Cuantos frentes tiene?" 
+                    android:textColor="#000000"/>
+
+                <EditText
+                    android:id="@+id/EditOtroFrentes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="4"
+                    android:textColor="#000000" 
+                    android:textCursorDrawable="@null"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LayoutComentarios"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Comentarios:"
+                android:textColor="#000000" />
+
+            <EditText
+                android:id="@+id/EditComentario"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="text"
+                android:maxLength="100" 
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

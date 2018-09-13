@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version_actual">38</string>
+    <string name="version_comparar_server_vs_apk">39</string>
+    <string name="app_name">Team</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login_title">Inicio de Session</string>
+    <string name="login_usuario">Usuario:</string>
+    <string name="login_pass">Contraseña:</string>
+    <string name="login_entrar">Entrar</string>
+    <string name="activity_menu_title">Menu Operativo</string>
+    <string name="activity_menu_captura">Captura</string>
+    <string name="title_activity_activity_captura">Activity_captura</string>
+    <string name="title_activity_captura">Captura</string>
+    <string name="title_activity_ruta">Ruta</string>
+    <string name="title_activity_sucursal">Sucursal</string>
+    <string name="sucursal_folio">Folio:</string>
+    <string name="sucursal_title">Sucursales</string>
+    <string name="escaner_title">Escanér</string>
+    <string name="foto_anaquel">Foto Anaquel</string>
+    <string name="foto_producto">Foto Producto</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+    <string name="title_activity_asistencia">Asistencia</string>
+    <string name="title_activity_activity__anaquel">Clasificación de Producto</string>
+    <string name="anaquel_producto">Productos</string>
+    <string name="title_adicional">Adicional</string>
+    <string name="anaquel_categoria">Categorias</string>
+    <string name="anaquel_marca">Marcas</string>
+    <string name="title_activity_anquel_sondeo">MainActivity</string>
+    <string name="title_activity_bodega">MainActivity</string>
+    <string name="title_activity_captura_foto">MainActivity</string>
+    <string name="title_activity_foto">Foto</string>
+    <string name="title_activity_control">MainActivity</string>
+    <string name="title_activity_opciones_foto">MainActivity</string>
+    <string name="title_activity_material_promocional">MainActivity</string>
+    <string name="title_activity_exhibicion_adicional">MainActivity</string>
+    <string name="title_activity_sondeo">MainActivity</string>
+    <string name="title_activity_prueba">MainActivity</string>
+    <string name="closesession">Cerrar Sesión</string>
+    <string name="Tel">Numero de Telefono</string>
+    <string name="numberphone">(55)-55-55-55-55</string>
+    <string name="accept">ACEPTAR</string>
+    <string name="cancel">CANCELAR</string>
+
+    <color name="fondo">#0000</color>
+
+    <string name="title_activity_producto">Productos</string>
+    <string name="title_activity_fotoadicional">Foto Adicional</string>
+    <string name="title_categoria">Categoria</string>
+    <string name="title_marca">Marca</string>
+    <string name="title_producto">Producto</string>
+    <string name="title_sincronizar">Sincronización</string>
+    <string name="ejemplo">Hola como estas</string>
+    <string name="title_dialog">Team</string>
+    <string name="message_espere_dialog">Espere por favor..</string>
+    <string name="cantidad_minima_permitida">La cantidad capturada en Precio no corresponde al minimo permitido. \nDesea continuar?</string>
+    <string name="cantidad_maxima_permitida">La cantidad capturada en Precio excede al maximo permitido. \nDesea continuar?</string>
+    <string name="confirmacion_registro">Información registrada correctamente.</string>
+    <string name="captura_otro_producto">Desea capturar otro producto?</string>
+    <string name="acerca_de">Herramienta para medir y supervisar proyectos en campo. Digitaliza y automatiza reportes, lo que genera eficiencia en la ejecución del servicio.</string>
+    <string name="toast_error_camera_preview">Can\'t initialize camera preview.</string>
+    <string name="toast_error_save_picture">Can\'t save picture on external storage.</string>
+    <string name="configuration">Settings</string>
+    <string name="phoneMessage">Está Información Será Validada por El Ejecutivo.</string>
+
+    <string name="content_description_take_picture">Take picture</string>
+</resources>

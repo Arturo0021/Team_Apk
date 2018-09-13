@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mx.triplei"
+    android:versionCode="38"
+    android:versionName="@string/version_actual" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+
+    <application
+        android:name="mx.triplei.GlobalSettings"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/logoteam_new"
+        android:label="@string/app_name"
+        android:testOnly="true" >
+        <activity
+            android:name="mx.triplei.Sucursal"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/sucursal_title"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.sucusales" >
+                </action>
+
+                <category android:name="android.intent.category.DEFAULT" >
+                </category>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.ExhibicionActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/sucursal_title"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.exhibicionactivity" >
+                </action>
+
+                <category android:name="android.intent.category.DEFAULT" >
+                </category>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.ScoredCard"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label=""
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.scoredcard" >
+                </action>
+
+                <category android:name="android.intent.category.DEFAULT" >
+                </category>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.SodActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="Sod"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.sodactivity" >
+                </action>
+
+                <category android:name="android.intent.category.DEFAULT" >
+                </category>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.newSondeoActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/escaner_title"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.newsondeoactivity" >
+                </action>
+
+                <category android:name="android.intent.category.DEFAULT" >
+                </category>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.MarcasCatActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/escaner_title"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.marcascatacivity" >
+                </action>
+
+                <category android:name="android.intent.category.DEFAULT" >
+                </category>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.MenuPrincipal"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_menu_principal"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.menu" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.Asistencia"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_asistencia"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.asistencia" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.ClasificacionProducto"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_activity__anaquel"
+            android:theme="@android:style/Theme.Holo"
+            android:uiOptions="splitActionBarWhenNarrow" >
+            <intent-filter>
+                <action android:name="mx.triplei.clasificacionproducto" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.Anquel"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_anquel_sondeo"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.anaquel" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.FichaTecnica"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.fichatecnica" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.BodegaActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_bodega"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.bodega" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.CapturaFotoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_captura_foto"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.capturafoto" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.OpcionesFotoActivity"
+            android:label="Foto"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.opcionesfoto" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.MaterialPromocionalActivity"
+            android:label="@string/title_activity_material_promocional"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.materialpromocional" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.ExhibicionAdicionalActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_exhibicion_adicional"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.exhibicionadicional" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.SondeoActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_sondeo"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.sondeo" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.PruebaActivity"
+            android:label="@string/title_activity_prueba"
+            android:theme="@android:style/Theme.Holo" >
+        </activity>
+        <activity
+            android:name="mx.triplei.FotoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_foto"
+            android:theme="@android:style/Theme.Holo"
+            android:uiOptions="splitActionBarWhenNarrow" >
+            <intent-filter>
+                <action android:name="mx.triplei.foto" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.FotoAsistenciaActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_foto"
+            android:theme="@android:style/Theme.Holo"
+            android:uiOptions="splitActionBarWhenNarrow" >
+            <intent-filter>
+                <action android:name="mx.triplei.fotoasistencia" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.FrentesActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_foto"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.frentes" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.ProductoActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_producto"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.producto" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.FotoAdicional"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_fotoadicional"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.FotoAdicional" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.FotoProducto"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/foto_producto"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.FotoProducto" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.PreciosActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_anquel_sondeo"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.precios" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.ByMarca"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/anaquel_marca"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.bymarca" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.Sos"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.sos" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.ByCategorias"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.bycategorias" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.PickAsisActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Holo"
+            android:uiOptions="splitActionBarWhenNarrow" />
+
+        <!-- PickAsisActivity -->
+        <activity
+            android:name="mx.triplei.CameraActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo" >
+        </activity>
+        <activity
+            android:name="mx.triplei.AndroidCamera"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.androidcamera" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.PhotoActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Holo"
+            android:uiOptions="splitActionBarWhenNarrow" />
+        <activity
+            android:name="mx.triplei.PreguntaDinamicaActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.preguntadinamicaactivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.PDinamicaCategoriaActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Holo" >
+            <intent-filter>
+                <action android:name="mx.triplei.pdinamicacategoriaactivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.SettingActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/configuration"
+            android:theme="@android:style/Theme.Holo"
+            android:uiOptions="splitActionBarWhenNarrow" />
+        <!-- android:theme="@style/AppTheme" -->
+
+        <activity
+            android:name="mx.triplei.LoginActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Holo"
+            android:uiOptions="splitActionBarWhenNarrow" >
+
+            <!--
+            intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter
+            -->
+        </activity>
+        <activity
+            android:name="mx.triplei.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:uiOptions="splitActionBarWhenNarrow" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.SubMenu"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Holo"
+            android:uiOptions="splitActionBarWhenNarrow" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.Insumos_Activity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Holo"
+            android:uiOptions="splitActionBarWhenNarrow" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.Graficas_Activity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Holo"
+            android:uiOptions="splitActionBarWhenNarrow" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.Insumos_Answ_Activity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Holo"
+            android:uiOptions="splitActionBarWhenNarrow" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mx.triplei.SincronizarActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Holo"
+            android:uiOptions="splitActionBarWhenNarrow" >
+            <intent-filter>
+                <action android:name="mx.triplei.sincronizar" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="mx.triplei.Notificaciones" >
+            <intent-filter>
+                <action android:name="mx.triplei.notificaciones" />
+            </intent-filter>
+        </service>
+        <service android:name="mx.triplei.ServicioGps" />
+        <service android:name="mx.triplei.SincronizarBackGround" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="mx.triplei.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

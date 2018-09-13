@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+        <item
+        android:id="@+id/action_siguiente"
+        android:orderInCategory="200"
+        android:showAsAction="always"
+        android:icon="@drawable/camera_white"
+        />
+    
+    <item
+        android:id="@+id/action_guardar"
+        android:orderInCategory="200"
+        android:showAsAction="always"
+        android:icon="@drawable/save_white"
+        />
+
+    <item
+        android:id="@+id/action_cancelar"
+        android:orderInCategory="200"
+        android:showAsAction="always"
+        android:icon="@drawable/cancel_white"
+        />
+    
+</menu>

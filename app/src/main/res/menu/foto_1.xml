@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_save"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/save_white"
+        />
+    
+    <!-- item
+        android:id="@+id/action_foto"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/camara_black"
+        / -->
+    
+    
+    <item
+        android:id="@+id/action_cancelar"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/cancel_white"
+        />
+    
+    
+</menu>

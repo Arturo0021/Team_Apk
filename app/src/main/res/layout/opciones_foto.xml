@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/opcionFoto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:gravity="top"
+    android:orientation="horizontal" 
+    android:background="#fff"
+>
+
+    <LinearLayout
+        android:id="@+id/layouopcion"
+        android:layout_width="fill_parent"
+        android:layout_height="47dp"
+        android:background="@drawable/toolbar"
+        android:orientation="horizontal"        
+        android:gravity="center_horizontal" >
+
+        <Button
+            android:id="@+id/btnclasificacion"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/clasificacion"
+            android:layout_marginRight="10dp"
+            android:paddingTop="5dp" >
+            
+        </Button>
+
+        
+
+        <Button
+            android:id="@+id/btnsubclasificacion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            
+            android:paddingTop="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_gravity="top|center_horizontal" >
+
+        </Button>
+        <Button
+            android:id="@+id/btncomentario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/comentario"
+            android:layout_marginRight="10dp"
+            android:paddingTop="5dp"  >
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>

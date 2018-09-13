@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="15dp"
+    android:layout_margin="5dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="5dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CADENA:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SUCURSAL:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FOLIO:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PROMOTOR:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="USUARIO:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FECHA:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SALIDA:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TRAYECTORIA:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txt1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CADENA"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/txt2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SUCURSAL"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/txt3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FOLIO"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/txt4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PROMOTOR"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#0022ff"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/txt5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="USUARIO"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#0022ff"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/txt6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FECHA"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/txt7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SALIDA"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/txt8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TRAYECTORIA"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:id="@+id/view_color_sos"
+        android:background="#000"
+        android:layout_marginTop="10dp"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="5dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CATEGORIA:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MARCA:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CLASIFICACIÓN:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FECHA:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="VALOR:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RESULTADO:"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txt9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CATEGORIA"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/txt10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MARCA"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/txt11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CLASIFICACIÓN"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/txt12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FECHA"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#000"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/txt13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="VALOR"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#0022ff"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/txt14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RESULTADO"
+                android:textStyle="normal"
+                android:layout_weight="1"
+                android:textColor="#0022ff"
+                android:textSize="12sp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#000"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>

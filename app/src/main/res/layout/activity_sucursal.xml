@@ -1,0 +1,76 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical"
+              android:background="#fff">
+    
+ 
+    
+    <GridLayout
+            android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:orientation="horizontal"
+            android:layout_marginBottom="5dp"
+            android:background="@color/black"
+        >
+        
+            <TextView
+                android:layout_width="85sp"
+                android:layout_height="wrap_content"
+                android:text="Bienvenido: "
+                android:layout_margin="8dp"            
+                android:textColor="@color/white"
+            />    
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textColor="@color/white"
+                android:id="@+id/var_nombre"
+            />
+            
+            
+        </GridLayout>
+        
+    
+  <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+      
+        <!--<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sucursal_folio"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold"
+            android:textColor="@color/black"            
+        />-->
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ch_sondeo"
+            android:textColorHint="@color/black"
+            android:hint=" Folio"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="0.54"
+            android:inputType="number"
+            android:cursorVisible="true" 
+            android:textCursorDrawable="@null"
+            android:textColor="@color/black"
+            android:id="@+id/txtFolio"
+        />
+        
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/ListTiendas"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_height="wrap_content" 
+        android:textColor="@color/black">
+    </ListView>
+    
+</LinearLayout>

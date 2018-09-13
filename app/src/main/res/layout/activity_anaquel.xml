@@ -1,0 +1,185 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" 
+              android:background="#fff"
+>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <!--<TextView
+            android:id="@+id/Existencia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Existencia en Anaquel:" />
+
+        <EditText
+            android:id="@+id/EditExistencia"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number" />
+
+        <TextView
+            android:id="@+id/Precio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Precio:" />
+
+        <EditText
+            android:id="@+id/EditTotal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:digits="0123456789.," />
+
+        <TextView
+            android:id="@+id/Comentario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Comentarios:" />
+
+        <EditText
+            
+            android:id="@+id/EditComentarios"
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:layout_weight="0.50"
+            android:inputType="text"
+            android:focusable="true"
+            android:focusableInTouchMode="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tramos" 
+            android:visibility="gone"/>
+
+        <EditText
+            android:id="@+id/EditTramos"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/prodFren"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="¿Hay productos en los frentes?" />
+
+        <RadioGroup
+            android:id="@+id/rdgGrupo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_span="3"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/radioSi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Si" />
+
+            <RadioButton
+                android:id="@+id/radioNo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="No" />
+        </RadioGroup>-->
+        
+        <LinearLayout android:id="@+id/LeyautFrentes"
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical" 
+                      android:visibility="visible">
+
+        <TextView
+            android:id="@+id/Existencia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Existencia en Anaquel:" 
+            android:textColor="#000000"/>
+
+        <EditText
+            android:id="@+id/EditExistencia"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number" 
+            android:textColor="#000000"/>
+            
+            
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Frentes a la altura del techo:" 
+                android:textColor="#000000"/>
+
+            <EditText
+                android:id="@+id/EditFAlturaTecho"
+                android:inputType="number"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" 
+                android:textColor="#000000"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Frentes a la altura de los ojos:"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditFAlturaOjos"
+                android:inputType="number"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" 
+                android:textColor="#000000"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Frentes a la altura de las manos:" 
+                android:textColor="#000000"/>
+
+            <EditText
+                android:id="@+id/EditFAlturaManos"
+                android:inputType="number"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" 
+                android:textColor="#000000"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Frentes a la altura del suelo:"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditFAlturaSuelo"
+                android:inputType="number"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"            />
+             <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Comentarios:" 
+                android:textColor="#000000"/>
+
+            <EditText
+                android:id="@+id/EditComentarios"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+                android:layout_weight="0.50"
+                android:inputType="text"
+                android:focusable="true"
+                android:focusableInTouchMode="true" 
+                android:textColor="#000000"/>
+        
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

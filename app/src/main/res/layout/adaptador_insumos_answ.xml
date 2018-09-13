@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linear_layout_p"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_marginTop="5dp"
+    android:background="@color/black"
+    android:layout_margin="5dp">
+
+    <ImageView android:id="@+id/image_view"
+        android:layout_width="20dp"
+        android:layout_height="match_parent"
+        android:src="@android:drawable/radiobutton_off_background" />
+
+    <View android:layout_width="2dip"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF" 
+        android:id="@+id/view_p"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:background="@color/black"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/text_insumo"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:layout_marginLeft="9dp"
+            android:layout_marginRight="100dip"
+            android:textSize="15sp"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/text_respuesta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:layout_marginLeft="10dp"
+            android:textColor="#FFFFFF"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/text_fecha"
+        android:layout_width="250dp"
+        android:layout_height="match_parent"
+        android:maxLines="1"
+        android:layout_marginLeft="10dp"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:layout_weight="1"/>
+
+</LinearLayout>

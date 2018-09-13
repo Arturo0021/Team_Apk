@@ -1,0 +1,96 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"   
+            android:background="#fff"
+>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+       
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tramos" 
+            android:visibility="gone"
+            android:textColor="#000000"/>
+
+        <EditText
+            android:id="@+id/EditTramos"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:visibility="gone" 
+            android:textColor="#000000"
+            android:textCursorDrawable="@null"/>
+
+        <LinearLayout android:id="@+id/LeyautFrentes"
+                   android:layout_width="fill_parent"
+                   android:layout_height="wrap_content"
+                   android:orientation="vertical" 
+                   android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Frentes a la altura del techo:"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditFAlturaTecho"
+                android:inputType="number"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" 
+                android:textColor="#000000"            
+                android:textCursorDrawable="@null"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Frentes a la altura de los ojos:"
+                android:textColor="#000000"            />
+
+            <EditText
+                android:id="@+id/EditFAlturaOjos"
+                android:inputType="number"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" 
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Frentes a la altura de las manos:"
+                android:textColor="#000000"          />
+
+            <EditText
+                android:id="@+id/EditFAlturaManos"
+                android:inputType="number"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" 
+                android:textColor="#000000"
+                android:textCursorDrawable="@null"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Frentes a la altura del suelo:" 
+                android:textColor="#000000"/>
+
+            <EditText
+                android:id="@+id/EditFAlturaSuelo"
+                android:inputType="number"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"  
+                android:textCursorDrawable="@null"/>
+        
+        </LinearLayout>
+
+      
+    </LinearLayout>
+</ScrollView>

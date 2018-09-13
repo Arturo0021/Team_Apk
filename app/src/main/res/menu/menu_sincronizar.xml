@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/ir_a_sincronizar"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/upload_white"
+        />  
+   <!--    <item
+            android:id="@+id/ir_a_settings"
+            android:orderInCategory="200"
+            android:showAsAction="always"
+            android:icon="@drawable/action_settings"
+            />-->
+	
+</menu>

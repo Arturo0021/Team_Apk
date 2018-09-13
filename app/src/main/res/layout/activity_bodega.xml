@@ -1,0 +1,60 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+              android:background="#fff"
+>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Existencia en bodega:" 
+            android:textColor="#000000"/>
+
+        <EditText
+            android:id="@+id/EditExistencia"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number" 
+            android:textColor="#000000"
+            android:textCursorDrawable="@null"
+/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tarimas:"
+            android:textColor="#000000"        />
+
+        <EditText
+            android:id="@+id/EditTarima"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:textColor="#000000"  
+            android:textCursorDrawable="@null"
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Comentarios:" 
+            android:textColor="#000000"/>
+
+        <EditText
+            android:id="@+id/EditComentarios"
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:layout_weight="0.50"
+            android:inputType="text"
+            android:textColor="#000000"  
+            android:textCursorDrawable="@null"
+      />
+
+    </LinearLayout>
+
+</ScrollView>

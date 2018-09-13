@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_enviar"
+        android:orderInCategory="100"
+        android:icon="@drawable/ch_enviar_white"
+        android:title="Enviar"/>
+    
+    <item
+        android:id="@+id/action_foto"
+        android:orderInCategory="100"
+        android:icon="@drawable/camera_white"
+        android:title="Foto"/>
+    
+    <item
+        android:id="@+id/action_cancelar"
+        android:orderInCategory="100"
+        android:icon="@drawable/cancel_white"
+        android:title="Cancelar"/>
+    
+
+</menu>
